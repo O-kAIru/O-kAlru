@@ -1,6 +1,6 @@
 # Hi, I'm Kairu
 
-Frontend / Backend Engineer
+Frontend / Backend Engineer  
 University of Aizu
 
 - TypeScript / React
